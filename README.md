@@ -1,0 +1,2 @@
+# effectivecpp
+effective c++ pratices
