@@ -1,2 +1,2 @@
-# effectivecpp
-effective c++ pratices
+# NLP_pratice
+- Text Categorization
